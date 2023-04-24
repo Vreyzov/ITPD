@@ -1,0 +1,24 @@
+.wrapper {
+    text-align: center;
+    
+}
+body{
+    background-color: #17F213;
+}
+.shapka{
+    float:left;
+    
+}
+ul.gx{
+    margin: 0px;
+    padding: 4px;
+    
+}
+ul.gx li{
+    display: inline;
+    margin-right: 5px; 
+     
+}
+.pompa{
+    margin-right: auto;
+}
