@@ -1,24 +1,37 @@
 .wrapper {
     text-align: center;
+    max-width: 1026px;
     
 }
 body{
     background-color: #17F213;
 }
 .shapka{
-    float:left;
+    margin-top: 10px ;
+    height: 20px;
+    line-height: 41px;
     
 }
+.Logo{
+    float: left;
+    margin-left: 250px;
+}
 ul.gx{
-    margin: 0px;
+    margin: 0px ;
     padding: 4px;
+    
+    
     
 }
 ul.gx li{
     display: inline;
     margin-right: 5px; 
+    
+    
      
 }
-.pompa{
-    margin-right: auto;
+.karta{
+    margin-top: 30px;
+
 }
+    
