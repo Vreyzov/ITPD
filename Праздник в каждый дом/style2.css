@@ -1,0 +1,91 @@
+.wrapper {
+
+    max-width: 1354px;
+    
+    }
+    body{
+    background-color: #f75990
+    }
+    
+    .Logo{
+    float: left;
+    margin-left: 250px;
+    }
+    .gx li{
+    display: inline-block;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    }
+    a{
+    padding:10px;
+    text-decoration: none;
+    height: 35px;
+    line-height: 50px;
+    color:black;
+    }
+    .volda{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    
+    }
+    .volda div{
+    margin: 20px;
+    
+    }
+    .fs{
+    display: flex;
+    border: 2px solid black;
+    background: green;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 25px;
+    font-family: Arial;
+    height: 280px;
+    }
+    .ph {
+    
+    border: 2px solid black;
+    background: green;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 25px;
+    font-family: Arial;
+    height: 280px;
+    
+    
+    }
+    .tt{
+    display: flex;
+    flex-flow:column wrap;
+    justify-content: center;
+    text-align: center;
+    gap:10px;
+    border: 2px solid black;
+    background: green;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 25px;
+    font-family: Arial;
+    height: 280px;
+    }
+    .as{
+    display: block;
+    border: 2px solid black;
+    text-align: center;
+    background: green;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 25px;
+    font-family: Arial;
+    height: 280px;
+    }
+    .aa{
+    display: flex;
+    flex-flow:column wrap;
+    justify-content: center;
+    gap:10px;
+    height: 100%;
+    
+    
+    
+    }
